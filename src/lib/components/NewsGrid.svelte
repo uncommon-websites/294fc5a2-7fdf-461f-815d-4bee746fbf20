@@ -1,19 +1,22 @@
 <script>
   const articles = [
     {
-      title: "Wealth Management for a New Generation: Wealthfront Goes...",
-      author: "Mike Volpi",
-      image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=600&auto=format&fit=crop"
+      title: "Why Concentrated Portfolios Deliver Outsized Returns",
+      author: "Max & Will",
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600&auto=format&fit=crop",
+      generating: true
     },
     {
-      title: "Security's Agentic Era Starts Here: Our Investment in 7AI",
-      author: "Shardul Shah",
-      image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=600&auto=format&fit=crop"
+      title: "Pattern Recognition: Identifying Dynastic Founders Early",
+      author: "Max",
+      image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=600&auto=format&fit=crop",
+      generating: true
     },
     {
-      title: "Getting to know the Bornstein brothers",
-      author: "Nina Achadjian",
-      image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=600&auto=format&fit=crop"
+      title: "From ARK to Autopilot: Our Investment Philosophy",
+      author: "Judd",
+      image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=600&auto=format&fit=crop",
+      generating: true
     }
   ];
 </script>
